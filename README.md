@@ -100,6 +100,12 @@ IBM-Data-Analyst-Professional-Certificate/
 
 ---
 
+## Setup
+
+pip install -r requirements.txt
+
+---
+
 ## Author
 
 **Jade Chen**  
